@@ -1,8 +1,8 @@
-# KSU2_SatelliteImageClassification
 # EuroSAT — Klasifikace satelitních snímků pomocí přeneseného učení
 
 **Předmět:** Strojové učení II (KSU2)  
 **Autor:** Bc. Pavel Ardolf  
+**Název:** KSU2_SatelliteImageClassification
 
 ---
 
